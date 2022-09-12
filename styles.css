@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(174, 195, 213);
+}
+
+.Title-Internal-combustion-engine{
+    font-weight: 300;
+    
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 350px;
+}
+
+.combustion-engine{
+    
+    display: block;
+    margin-left: 0;
+    width: 900px;
+}
